@@ -1098,7 +1098,7 @@
 
 /*TopBar*/ 
     #app-mount .title_c38106::before {
-        content: "Niggeromania V3 By King Nigger III";
+        content: var(--top-title);
         color: rgb(255,0,0,0.5);
         font-weight: 500;
 
