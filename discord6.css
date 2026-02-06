@@ -260,9 +260,9 @@
                 #app-mount .avatarSpeaking__07f91 {box-shadow: 0 0 0 2px var(--primary1-colour);}
                 #app-mount .avatarSpeaking__07f91::after {
                     content: ":";
-                    color: red; 
+                    color: transparent; 
 
-                    background-image: linear-gradient(to right, var(--primary2-colour), rgba(0,0,0,0));
+                    background-image: linear-gradient(to right, var(--primary2-colour), rgba(255,0,0,0));
                     padding: 0 120px 11px 0;
                     border-left: 5px solid var(--primary1-colour);
 
