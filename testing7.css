@@ -1102,9 +1102,8 @@
         color: rgb(255,0,0,0.5);
         font-weight: 500;
 
-       position: absolute;
-        top: 8px;
-        left: 47%;
+       position: left;
+        margin-right: 10px;
     }
     #app-mount .title_c38106 {
         background-color: var(--secondary3-colour);
