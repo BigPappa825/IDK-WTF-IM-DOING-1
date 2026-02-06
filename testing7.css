@@ -1098,7 +1098,7 @@
 
 /*TopBar*/ 
     #app-mount .title_c38106::before {
-        content: var(--top-title);
+        content: var(--top-itle);
         color: rgb(255,0,0,0.5);
         font-weight: 500;
 
